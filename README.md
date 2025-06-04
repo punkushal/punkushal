@@ -25,8 +25,12 @@ A passionate and aspiring Flutter developer dedicated to crafting interactive an
 ### 📫 Let's Connect
 
 * GitHub: [github.com/punkushal](https://github.com/punkushal)
-* LinkedIn: [linkedin.com/punkushal](https://www.linkedin.com/in/kushalpun/)
+* LinkedIn: \[linkedin.com/kushalpun](https://www.linkedin.com/in/kushalpun/)
+
 ---
+
+
+
 
  
 
