@@ -1,7 +1,4 @@
-Based on your GitHub profile, here's an engaging and professional introduction summary that highlights your skills and projects:
-
 ---
-
 ## 👋 Hello, I'm Kushal Pun
 
 A passionate and aspiring Flutter developer dedicated to crafting interactive and user-friendly applications that enhance user experiences.
@@ -29,8 +26,6 @@ A passionate and aspiring Flutter developer dedicated to crafting interactive an
 * GitHub: [github.com/punkushal](https://github.com/punkushal)
 * LinkedIn: [linkedin.com/punkushal](https://www.linkedin.com/in/kushalpun/)
 ---
-
-Feel free to personalize this summary further by adding specific achievements, certifications, or experiences that showcase your unique journey as a developer.
 
  
 
