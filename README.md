@@ -1,6 +1,6 @@
- 👋 Hi, I’m Kushal Pun
- 👀 I’m interested to build interactive and user-friendly applications that enhance the user experience
- 🌱 Currently, I'm focused on honing my skills in Flutter
+  Hi, I’m Kushal Pun and
+  I’m interested to build interactive and user-friendly applications that enhance the user experience.
+  Currently, I'm focused on honing my skills in Flutter
 
  
 
