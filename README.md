@@ -11,7 +11,6 @@
 
 ###  About Me
 
--  Currently doing a **Flutter App Development Internship**
 -  Passionate about building **clean, scalable & user-friendly mobile apps**
 -  Love watching **anime** (especially action & story-rich ones)
 -  Love to **eat** and **cook delicious homemade food**
