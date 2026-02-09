@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Pun</h1>
 <h3 align="center">Flutter App Developer  | Tech Enthusiast | Anime Lover </h3>
 
-<p align="center">
-  <a href="https://github.com/punkushal">
-    <img src="https://komarev.com/ghpvc/?username=punkushal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
 
 ---
 
