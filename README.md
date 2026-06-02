@@ -1,53 +1,28 @@
 <h1 align="center">Hi 👋, I'm Kushal Pun</h1>
-<h3 align="center">Flutter App Developer  | Tech Enthusiast | Anime Lover </h3>
-
-
----
-
-###  About Me
-
--  Passionate about building **clean, scalable & user-friendly mobile apps**
--  Love watching **anime** (especially action & story-rich ones)
--  Love to **eat** and **cook delicious homemade food**
--  Introvert, but highly focused and creative
--  Always learning and improving every day
-
----
-
-###  Tech Stack
-
-- **Mobile:** Flutter, Dart  
-- **State Management:** Bloc / Cubit (learning & practicing)
-- **Backend Basics:** REST APIs  
-- **Tools:** Git, GitHub, VS Code, Android Studio  
-- **UI/UX:** Clean UI, Material Design principles  
-
----
-
-###  GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punkushal&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <b>Flutter Developer | Anime Enthusiast | Culinary Explorer</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkushal&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
-### Fun Facts
-
-- I enjoy coding late at night  
-- Anime + Food + Coding = Perfect combo  
-- Dreaming of building impactful apps for real users  
 
 ---
 
+### ⚡ Quick Byte
+- 📱 Crafting clean, scalable mobile experiences with **Flutter & Dart**.
+- 🛠️ Deep diving into **Bloc/Cubit** for robust state management.
+- 🍱 Powered by **Homemade Food** and **Story-rich Anime**.
+- 🌙 Peak productivity happens at **midnight**.
+
+---
+
+### 📊 My Stats
 <p align="center">
-  <b>“Learning one step at a time, building one app at a time.”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=punkushal&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punkushal&theme=tokyonight" height="150" />
 </p>
 
-
-<!---
-punkushal/punkushal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><i>"Building one impactful app at a time."</i></p>
